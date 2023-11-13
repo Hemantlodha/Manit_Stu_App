@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49417949128",
+    "project_id": "manit-stu-app",
+    "storage_bucket": "manit-stu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49417949128:android:7402749a73c38eadde7afd",
+        "android_client_info": {
+          "package_name": "com.example.manit_stu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjsjU6gGhwHxVHTjKbQojzudTNRjO4N8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
